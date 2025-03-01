@@ -1,0 +1,18 @@
+p {
+  background-color: rgb(255, 200, 200);
+font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#one {
+   color: blue;
+   font-size: 36px;
+}
+
+.cool {
+   font-size: 24px;
+}
+
+#two {
+   background-color: rgb(96, 232, 96);
+   font-size: 24px;
+}
